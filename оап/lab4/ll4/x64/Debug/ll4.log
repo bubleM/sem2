@@ -1,0 +1,11 @@
+﻿  ll4.cpp
+D:\pipec\sem2\OAИП\lab4\ll4\ll4.cpp(8,7): warning C4624: "Cit": деструктор неявно определен как удаленный
+D:\pipec\sem2\OAИП\lab4\ll4\ll4.cpp(17,8): warning C4624: "Citizen": деструктор неявно определен как удаленный
+D:\pipec\sem2\OAИП\lab4\ll4\ll4.cpp(29,10): error C2280: "Citizen::Citizen(void)": предпринята попытка ссылки на удаленную функцию
+      D:\pipec\sem2\OAИП\lab4\ll4\ll4.cpp(23,1):
+      в этом месте создано компилятором: "Citizen::Citizen"
+      D:\pipec\sem2\OAИП\lab4\ll4\ll4.cpp(23,1):
+      "Citizen::Citizen(void)": функция неявно удалена, так как в "Citizen" содержится элемент данных "Citizen::name" с удаленным или недоступным деструктором.
+      D:\pipec\sem2\OAИП\lab4\ll4\ll4.cpp(19,6):
+       см. объявление "Citizen::name"
+  
