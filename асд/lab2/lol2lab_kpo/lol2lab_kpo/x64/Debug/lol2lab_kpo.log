@@ -1,0 +1,5 @@
+﻿  lol2lab_kpo.cpp
+D:\pipec\sem2\асд\lab2\lol2lab_kpo\lol2lab_kpo\lol2lab_kpo.cpp(13,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\pipec\sem2\асд\lab2\lol2lab_kpo\lol2lab_kpo\lol2lab_kpo.cpp(13,18): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+D:\pipec\sem2\асд\lab2\lol2lab_kpo\lol2lab_kpo\lol2lab_kpo.cpp(7,9): warning C4101: number: неиспользованная локальная переменная
+  lol2lab_kpo.vcxproj -> D:\pipec\sem2\асд\lab2\lol2lab_kpo\x64\Debug\lol2lab_kpo.exe
