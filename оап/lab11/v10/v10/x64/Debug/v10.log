@@ -1,0 +1,5 @@
+﻿  v10.cpp
+D:\pipec\sem2\OAИП\lab11\v10\v10\v10.cpp(25,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\pipec\sem2\OAИП\lab11\v10\v10\v10.cpp(29,23): warning C4101: letter: неиспользованная локальная переменная
+D:\pipec\sem2\OAИП\lab11\v10\v10\v10.cpp(28,19): warning C4101: n: неиспользованная локальная переменная
+  v10.vcxproj -> D:\pipec\sem2\OAИП\lab11\v10\x64\Debug\v10.exe
