@@ -1,0 +1,5 @@
+﻿  n4-1.cpp
+D:\pipec\sem2\асд\lab4\n4-1\n4-1\n4-1.cpp(22,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\pipec\sem2\асд\lab4\n4-1\n4-1\n4-1.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\pipec\sem2\асд\lab4\n4-1\n4-1\n4-1.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  n4-1.vcxproj -> D:\pipec\sem2\асд\lab4\n4-1\x64\Debug\n4-1.exe
