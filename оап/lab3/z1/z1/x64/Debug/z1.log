@@ -1,0 +1,4 @@
+﻿  z1.cpp
+D:\pipec\sem2\OAИП\z1\z1\z1.cpp(10,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\pipec\sem2\OAИП\z1\z1\z1.cpp(14,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  z1.vcxproj -> D:\pipec\sem2\OAИП\z1\x64\Debug\z1.exe
