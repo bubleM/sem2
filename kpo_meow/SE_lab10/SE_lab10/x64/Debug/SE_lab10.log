@@ -1,0 +1,4 @@
+﻿  SE_lab10.cpp
+D:\pipec\sem2\kpo\SE_lab10\SE_lab10\SE_lab10.cpp(11,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\pipec\sem2\kpo\SE_lab10\SE_lab10\SE_lab10.cpp(14,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  SE_lab10.vcxproj -> D:\pipec\sem2\kpo\SE_lab10\x64\Debug\SE_lab10.exe
